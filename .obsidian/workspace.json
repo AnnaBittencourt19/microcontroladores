@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "aedb0b2a9d6a8b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "95b8226462ef286f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a439c90eb591fb54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "códigos/aula teorica/maquina de estado.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "maquina de estado"
+            }
+          },
+          {
+            "id": "798f0cc9deaa77be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.12.4"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "93376fe166dc7598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b0fee6afd4e31af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a631ec72f5b3f5d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a531401f14c55ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ecd039eb52d25c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "34942b257dc6321e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "63c5a3ff013d80c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a165a9c145bbe362",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c95685ff18838d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac601d8c683989c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "códigos/aula teorica/explicacao_exerc1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para explicacao_exerc1"
+            }
+          },
+          {
+            "id": "1c0319ab0200e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "códigos/aula teorica/explicacao_exerc1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para explicacao_exerc1"
+            }
+          },
+          {
+            "id": "9ede83e2d96d8c3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8cca99eed50c59a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "ff63fdacd1af02a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "códigos/aula teorica/explicacao_exerc1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de explicacao_exerc1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "798f0cc9deaa77be",
+  "lastOpenFiles": [
+    "códigos/aula teorica/maquinaest.c",
+    "códigos/aula teorica/explicacao_exerc1.md",
+    "códigos/aula teorica/maquina de estado.md",
+    "Tipos primitivos variaveis C.md",
+    "códigos/aula teorica/exerc1.c",
+    "códigos/aula teorica",
+    "códigos",
+    "Captura de Tela 2026-02-23 às 15.54.46.png"
+  ]
+}
