@@ -1,0 +1,2 @@
+- entrada = Controla a transições entre eles
+- saída = ações do sistema

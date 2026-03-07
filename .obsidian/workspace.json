@@ -25,32 +25,18 @@
             "id": "798f0cc9deaa77be",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "resumos_anotacoes/Erros comuns em C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.12.4"
+              "icon": "lucide-file",
+              "title": "Erros comuns em C"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "93376fe166dc7598",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6b0fee6afd4e31af",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a165a9c145bbe362",
@@ -214,6 +200,11 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "resumos_anotacoes/Estudos C.md",
+    "resumos_anotacoes/Erros comuns em C.md",
+    "resumos_anotacoes/Tipos primitivos variaveis C.md",
+    "códigos/estudo C coddy/float_double.c",
+    "resumos_anotacoes/maquina de estado.md",
     "códigos/aula teorica/maquinaest.c",
     "códigos/aula teorica/explicacao_exerc1.md",
     "códigos/aula teorica/maquina de estado.md",
