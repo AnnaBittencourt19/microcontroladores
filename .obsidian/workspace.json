@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a439c90eb591fb54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "códigos/aula teorica/maquina de estado.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "maquina de estado"
-            }
-          },
-          {
             "id": "798f0cc9deaa77be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resumos_anotacoes/Estudos C.md",
+                "file": "resumos_anotacoes/Erros comuns em C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estudos C"
+              "title": "Erros comuns em C"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +185,10 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "resumos_anotacoes/Estudos C.md",
+    "resumos_anotacoes/maquina de estado.md",
+    "resumos_anotacoes/Tipos primitivos variaveis C.md",
+    "resumos_anotacoes/Erros comuns em C.md",
     "códigos/estudos(coddy:geral)/media_A-E.c",
     "códigos/estudos(coddy:geral)/sorvete.c",
     "códigos/estudos(coddy:geral)/chovendo.c",
@@ -210,11 +199,6 @@
     "códigos/estudos(coddy:geral)/hello_world.c",
     "códigos/estudos(coddy:geral)/float_double.c",
     "códigos/estudos(coddy:geral)",
-    "resumos_anotacoes/maquina de estado.md",
-    "resumos_anotacoes/Erros comuns em C.md",
-    "resumos_anotacoes/Estudos C.md",
-    "resumos_anotacoes/Tipos primitivos variaveis C.md",
-    "códigos/estudo C coddy/float_double.c",
     "códigos/aula teorica/explicacao_exerc1.md",
     "códigos/aula teorica/maquina de estado.md",
     "Tipos primitivos variaveis C.md",

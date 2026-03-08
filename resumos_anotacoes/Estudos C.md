@@ -7,6 +7,15 @@ tag: #C Link: [[Tipos primitivos variaveis C]]
 	- %f = float (para 2 números após a virgula: %.2f);
 	- %c = char
 	- %s = string
+- Constantes: São definidas no começo do código ou no meio do código
+	 ```C
+	 #define PI 3.14
+	 
+	 const float PI = 3.14;
+	 ```
+	 - No começo do código usando o define não precisa declarar o tipo e nem usar ponto e virgula
+	 - Já no meio do código usando const é preciso declarar o tipo e usar ponto e virgula
+	 
 #### Exercício tipos de dados
 - Crie variáveis para nome (string – veja seção 6), idade e calcule ano de nascimento.
 ```C
@@ -26,7 +35,14 @@ int main(){
 	printf("O usuario %s nasceu provavelmente (depende do seu mês de aniversário) em %d", str, anoNascimento);
 }
 ```
+- OBS: Em C não se tem booleanos, para verdadeiros usamos o valor 1 (mas valores ≠ 0 são considerados verdadeiros no C) e 0 para falso. 
+- A partir do C99 podemos usar o bool tradicional com um cabeçalho(#include <stdbool.h>):
+```C
+#include <stdbool.h>
 
+bool isTrue = true;   // Agora usando o tipo booleano real
+bool isFalse = false; // Usando constantes predefinidas
+```
 #### Operadores
 - Em C temos os seguintes tipos de operadores:
 	- Aritméticos ``(+, -, *, /, %)``: Para operações matemáticas/calculos
