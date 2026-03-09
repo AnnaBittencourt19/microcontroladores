@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resumos_anotacoes/Erros comuns em C.md",
+                "file": "resumos_anotacoes/loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erros comuns em C"
+              "title": "loops"
             }
           }
         ]
@@ -185,20 +185,22 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
-    "resumos_anotacoes/Estudos C.md",
-    "resumos_anotacoes/maquina de estado.md",
+    "códigos/estudos(coddy:geral)/loops/while_senha",
+    "códigos/estudos(coddy:geral)/loops/while_senha.c",
+    "códigos/estudos(coddy:geral)/loops/while_senha.cp",
+    "códigos/estudos(coddy:geral)/loops/while_senha.cpp",
+    "códigos/estudos(coddy:geral)/loops/while_bateria",
+    "códigos/estudos(coddy:geral)/loops/while_bateria.c",
+    "códigos/estudos(coddy:geral)/loops/while_soma",
+    "resumos_anotacoes/Estudos C Base.md",
+    "códigos/estudos(coddy:geral)/loops/while_soma.c",
+    "códigos/estudos(coddy:geral)/loops",
+    "códigos/estudos(coddy:geral)/basico/switch_case_temperatura.c",
+    "códigos/estudos(coddy:geral)/basico/switch_case_temperatura.cpp",
+    "resumos_anotacoes/loops.md",
     "resumos_anotacoes/Tipos primitivos variaveis C.md",
+    "resumos_anotacoes/maquina de estado.md",
     "resumos_anotacoes/Erros comuns em C.md",
-    "códigos/estudos(coddy:geral)/media_A-E.c",
-    "códigos/estudos(coddy:geral)/sorvete.c",
-    "códigos/estudos(coddy:geral)/chovendo.c",
-    "códigos/estudos(coddy:geral)/retangulo_ou_quadrado.c",
-    "códigos/estudos(coddy:geral)/anoNascimento.c",
-    "códigos/estudos(coddy:geral)/tipos_de_dados.c",
-    "códigos/estudos(coddy:geral)/inteiro.c",
-    "códigos/estudos(coddy:geral)/hello_world.c",
-    "códigos/estudos(coddy:geral)/float_double.c",
-    "códigos/estudos(coddy:geral)",
     "códigos/aula teorica/explicacao_exerc1.md",
     "códigos/aula teorica/maquina de estado.md",
     "Tipos primitivos variaveis C.md",

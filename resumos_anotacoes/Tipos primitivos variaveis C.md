@@ -1,4 +1,4 @@
-Tag: #C Link: [[Estudos C]]
+Tag: #C Link: [[Estudos C Base]]
 ![[Captura de Tela 2026-02-23 às 15.54.46.png]]
 - idade de uma pessoa= unsigned char
 - tensão = mudar unidade da variavel (volts para mv), aí vai ser int que tem 32bit no lugar de 64 do double

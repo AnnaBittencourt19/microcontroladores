@@ -1,4 +1,4 @@
-tag: #C Link: [[Tipos primitivos variaveis C]]
+tag: #C Link: [[Tipos primitivos variaveis C]][[Erros comuns em C]]
 - Linguagem de programação de nível médio;
 - Procedural, funções que executam tarefas sequenciais (passo a passo)
 - Imperativo: Variáveis são alteradas ao longo da execução;
@@ -81,7 +81,7 @@ int main(){
 ```C
 if (condição){
 	//só acontece quando a condição for verdadeira
-}else //se a condição for falsa 
+}
 ```
 - Se estiver chovendo, pegue o guarda chuva
 - No código abaixo tem um pequeno erro pois não se compara strings com ==  e sim com strcmp mas ainda não aprendi isso (é apenas um exemplo ilustrativo da lógica)
@@ -173,4 +173,30 @@ int main() {
 }
 ```
 - Quando se tem if e else if a ordem do código importa, caso tivesse o nota >= a 6.0 antes do 9.0 o program nunca chegaria no 9 (após achar uma condição verdadeira para de percorrer os demais), tem que ser em ordem decrescente 
-- 
+## Switch
+- O código decide o que fazer com base em um valor 
+- Usado geralmente para fazer menus
+- Exemplo de sintaxe: 
+```C
+switch (variavel_controladora) {   // onde está escrito variavel vai ser colocada a variavel que o valor será comparado com os casos
+    case valor1: //no caso do valor da variavel valor1 ser igual ao valor da variavel_controladora
+// vai ter algo a ser feito aqui
+        break;        //padrão      
+
+    case valor2:      //se a variavel de controle for valor2
+               
+        break;
+
+    default:    //aqui é controle de erro caso não seja nenhum dos cases                  
+        break;
+}
+```
+- O switch não pode receber variaveis do tipo float, double e nem ponteiros
+
+- Return 0; fecha programa. Exemplo:
+```C
+ default:  
+        printf("Opcao invalida\n Saindo...");  
+        return 0;  
+}
+```
