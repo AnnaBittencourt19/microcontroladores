@@ -7,6 +7,7 @@ tag: #C Link: [[Tipos primitivos variaveis C]][[Erros comuns em C]]
 	- %f = float (para 2 números após a virgula: %.2f);
 	- %c = char
 	- %s = string
+	- %f = double 
 - Constantes: São definidas no começo do código ou no meio do código
 	 ```C
 	 #define PI 3.14

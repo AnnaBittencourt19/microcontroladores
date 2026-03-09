@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resumos_anotacoes/loops.md",
+                "file": "resumos_anotacoes/Estudos C Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loops"
+              "title": "Estudos C Base"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "códigos/estudos(coddy:geral)/basico/conversaoTipos2",
+    "códigos/estudos(coddy:geral)/basico/conversaoTipos2.c",
+    "resumos_anotacoes/loops.md",
+    "resumos_anotacoes/Estudos C Base.md",
     "códigos/estudos(coddy:geral)/loops/while_senha",
     "códigos/estudos(coddy:geral)/loops/while_senha.c",
     "códigos/estudos(coddy:geral)/loops/while_senha.cp",
@@ -192,12 +196,8 @@
     "códigos/estudos(coddy:geral)/loops/while_bateria",
     "códigos/estudos(coddy:geral)/loops/while_bateria.c",
     "códigos/estudos(coddy:geral)/loops/while_soma",
-    "resumos_anotacoes/Estudos C Base.md",
     "códigos/estudos(coddy:geral)/loops/while_soma.c",
     "códigos/estudos(coddy:geral)/loops",
-    "códigos/estudos(coddy:geral)/basico/switch_case_temperatura.c",
-    "códigos/estudos(coddy:geral)/basico/switch_case_temperatura.cpp",
-    "resumos_anotacoes/loops.md",
     "resumos_anotacoes/Tipos primitivos variaveis C.md",
     "resumos_anotacoes/maquina de estado.md",
     "resumos_anotacoes/Erros comuns em C.md",
