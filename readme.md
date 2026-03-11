@@ -14,6 +14,7 @@ Também estão incluídos estudos complementares da linguagem C realizados na pl
 - 🔧 Códigos práticos desenvolvidos durante a disciplina
 - 💻 Exercícios em C realizados na plataforma Coddy
 - 📝 Anotações de estudo sobre programação em C
+- 🃏 Flashcards
 
 ---
 
@@ -27,6 +28,7 @@ Também estão incluídos estudos complementares da linguagem C realizados na pl
 
 - CLion — desenvolvimento dos códigos em C  
 - Coddy — plataforma de prática e aprendizado da linguagem C
+- Anki - para criar Flashcards
 
 ---
 
