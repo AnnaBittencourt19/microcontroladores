@@ -1,0 +1,38 @@
+#include <stdio.h>
+
+int main(void)
+{
+    int status = 0 ;
+
+    for(;;){
+        switch(status){
+            case 0:
+                status++;
+                printf("c caso 00/n ");
+                _delay_ms(500);
+                break;
+            case 1 :
+                status++;
+                printf("c caso 01/n ");
+                _delay_ms(500);
+                break;
+            case 2 :
+                status++;
+                printf("c caso 10/n ");
+                _delay_ms(500);
+                break;
+            case 3 :
+                status++;
+                printf("c caso 11/n ");
+                _delay_ms(500);
+                break ;
+            default :
+                status = 0 ;
+
+        }
+    }
+
+    return 0;
+}//
+// Created by Anna Bittencourt on 10/03/26.
+//

@@ -1,0 +1,10 @@
+- GPIO entrada e saída
+- Portas
+- Analogicas: dá pra usar como porta também
+- Usamos portas D nas aulas
+- Portx: setar (mandar pino pra 1)
+- DDRx: configurar pinos
+- PINx: Leitura ler informação
+- 0 pino é entrada
+- 1 pino é saída
+- 
