@@ -22,7 +22,7 @@
 	```
 	- O código acima equivale a:
 	![[Captura de Tela 2026-03-09 às 16.01.27.png]]
-	
+	- Significa ativar o quarto bit
 - Código desligar bit:
 ```C
 uint_8 status;
@@ -32,6 +32,7 @@ status = status &˜ (0b00010000);
 ```
 - O código acima equivale a:
 ![[Captura de Tela 2026-03-09 às 16.02.03.png|352]]
+- Significa desligar o quarto bit
 
 - Deslocamento:  
 ![[Captura de Tela 2026-03-09 às 15.54.15.png]]
