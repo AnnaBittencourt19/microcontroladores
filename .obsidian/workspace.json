@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/Bit a bit.md",
+                "file": "Anotacoes aula teorica/Aula 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bit a bit"
+              "title": "Aula 1"
             }
           }
         ]
@@ -185,13 +185,17 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "MicrocontroladoresAnkiAula1.apkg",
+    "Microcontroladores.apkg.zip",
+    "Microcontroladores.apkg",
+    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
+    "Anotacoes aula teorica/Bit a bit.md",
+    "Anotacoes aula teorica/Aula 1.md",
     "códigos/aula teorica/exerc2lab.c",
     "códigos/aula teorica/exerc2.h",
     "códigos/aula teorica/exerc2.cpp",
-    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
     "códigos/pratica/exerc2.c",
     "Anotacoes aula teorica/Sem título.md",
-    "Anotacoes aula teorica/Bit a bit.md",
     "códigos/aula teorica/bit_a_bit_exerc1",
     "readme.md",
     "códigos/aula teorica/bit_a_bit_exerc1.c",
@@ -210,10 +214,7 @@
     "Sem título.md",
     "resumos_anotacoes/Sem título.md",
     "readme.md.md",
-    "códigos/estudos(coddy:geral)/basico/conversaoTipos2",
-    "códigos/estudos(coddy:geral)/basico/conversaoTipos2.c",
     "resumos_anotacoes_C/loops.md",
-    "códigos/estudos(coddy:geral)/loops/while_senha",
     "resumos_anotacoes_C/Tipos primitivos variaveis C.md",
     "resumos_anotacoes_C/maquina de estado.md",
     "códigos/aula teorica/explicacao_exerc1.md",

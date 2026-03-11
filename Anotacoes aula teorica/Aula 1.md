@@ -1,0 +1,12 @@
+- Microcontrolador: Pequeno computador em um único circuito integrado, contém 1 ou mais nucleos de processamento. Perifericos de entrada e saida programaveis
+- É um sistema completo composto por vários outros componentes, todos interligados e intercomunicáveis
+- Arquitetura Von Neumann: Possui uma unica área de memória na qual ficam armazenados os dados e o programa a ser executado
+- Arquitetura Harvard (possui duas memórias): Os dados ficam em um area e o programa a ser executado em outra area da memoria
+- Set de instruções: Traduz o codigo escrito em ações para a unidade de processamento
+	- Risc (ATmega328 usa esse set de instruções): Poucas instruções, simples, rápidas e geralmente em um ciclo de clock
+	- Cisc: Instruções complexas, leva vários ciclos de clock
+- A arquitetura Harvard é mais vantajosa porque quando se tem as memórias separadas é possível buscar a próxima instrução na flash e acessar os dados na RAM ao mesmo temp. Isso aumenta desempenho e otmiza o tempo de execução
+- Memória Flash (não volátil): Memória onde o firmware (software) é gravado
+- Memória RAM (volatil): Memória onde os dados (váriaveis) são guardados
+- GPIO: Pinos que permitem comunicação com o mundo exterior (entradas e saidas)
+- CPU: Responsável por interpretar e executar as instruções do programa
