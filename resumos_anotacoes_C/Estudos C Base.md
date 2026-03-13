@@ -8,6 +8,13 @@ tag: #C Link: [[Tipos primitivos variaveis C]][[Erros comuns em C]]
 	- %c = char
 	- %s = string
 	- %f = double 
+	- %u: Inteiro sem sinal
+	- %e ou %E: Notação científica
+	- %g ou %G: Usa %f ou %e, o que for mais curto
+	- %x ou %X: Hexadecimal
+	- %o: Octal
+	- %c: Caractere
+	- %p: Endereço de ponteiro
 - Constantes: São definidas no começo do código ou no meio do código
 	 ```C
 	 #define PI 3.14
