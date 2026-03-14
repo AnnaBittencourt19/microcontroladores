@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/Bit a bit.md",
+                "file": "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bit a bit"
+              "title": "GPIO SEM MÁSCARA"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "Anotacoes aula teorica/Bit a bit.md",
     "ankis/MicrocontroladoresAnkiAula1.apkg",
     "ankis",
     "resumos_anotacoes_C/Estudos C Base.md",
     "códigos/estudos(coddy:geral)/basico/scanf.c",
     "resumos_anotacoes_C/Erros comuns em C.md",
     "códigos/estudos(coddy:geral)/basico/recap.c",
-    "Anotacoes aula teorica/Bit a bit.md",
     "Anotacoes aula teorica/Aula 1.md",
     "MicrocontroladoresAnkiAula1.apkg",
     "Microcontroladores.apkg.zip",
@@ -200,7 +200,6 @@
     "códigos/aula teorica/exerc2lab.c",
     "códigos/aula teorica/exerc2.h",
     "códigos/aula teorica/exerc2.cpp",
-    "códigos/pratica/exerc2.c",
     "Anotacoes aula teorica/Sem título.md",
     "readme.md",
     "Captura de Tela 2026-03-09 às 16.18.08.png",
