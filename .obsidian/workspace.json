@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resumos_anotacoes_C/Estudos C Base.md",
+                "file": "Anotacoes aula teorica/Bit a bit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estudos C Base"
+              "title": "Bit a bit"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "ankis/MicrocontroladoresAnkiAula1.apkg",
+    "ankis",
+    "resumos_anotacoes_C/Estudos C Base.md",
     "códigos/estudos(coddy:geral)/basico/scanf.c",
     "resumos_anotacoes_C/Erros comuns em C.md",
-    "resumos_anotacoes_C/Estudos C Base.md",
     "códigos/estudos(coddy:geral)/basico/recap.c",
     "Anotacoes aula teorica/Bit a bit.md",
     "Anotacoes aula teorica/Aula 1.md",
@@ -200,9 +202,7 @@
     "códigos/aula teorica/exerc2.cpp",
     "códigos/pratica/exerc2.c",
     "Anotacoes aula teorica/Sem título.md",
-    "códigos/aula teorica/bit_a_bit_exerc1",
     "readme.md",
-    "códigos/aula teorica/bit_a_bit_exerc1.c",
     "Captura de Tela 2026-03-09 às 16.18.08.png",
     "Captura de Tela 2026-03-09 às 16.17.55.png",
     "Captura de Tela 2026-03-09 às 16.06.43.png",

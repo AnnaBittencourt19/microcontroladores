@@ -20,7 +20,7 @@
 	status = status | (0b10000000);
 	//Vai ligar o primeiro bit, status vira 10110011
 	```
-	- O código acima equivale a:
+
 	![[Captura de Tela 2026-03-09 às 16.01.27.png]]
 	- Significa ativar o quarto bit
 - Código desligar bit:
@@ -54,7 +54,7 @@ status = status &˜ (0b00010000);
 	A. 01111111
 	B. 01111111 | 10000000 = 11111111
 	C. 11111111 &~ 00000011 = 11111100
-	D.  11111100 | 00100000 = 
+	D.  11111100 | 00100000 = 11111100
 
 ```C
 uint_8 status;
