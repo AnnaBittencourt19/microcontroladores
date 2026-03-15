@@ -99,3 +99,13 @@ for (int i = 1; i <= 20; i++) {
 }
 ```
 - O loop para quando i for igual a 16 (para de contar no 15)
+## Continue
+```C
+for (int i = 1; i <= 20; i++) {
+	if ((i % 2)!= 0){
+		continue;
+	}
+	printf("%d ", i);
+}
+```
+- vai pular os numeros que não são pares
