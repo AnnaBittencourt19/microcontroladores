@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
+                "file": "resumos_anotacoes_C/loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPIO SEM MÁSCARA"
+              "title": "loops"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "códigos/estudos(coddy:geral)/basico/break.c",
+    "códigos/estudos(coddy:geral)/basico/doWhileSoma.c",
+    "códigos/estudos(coddy:geral)/basico/whilePar.c",
+    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
     "Anotacoes aula teorica/Bit a bit.md",
     "ankis/MicrocontroladoresAnkiAula1.apkg",
     "ankis",
@@ -196,10 +200,7 @@
     "MicrocontroladoresAnkiAula1.apkg",
     "Microcontroladores.apkg.zip",
     "Microcontroladores.apkg",
-    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
     "códigos/aula teorica/exerc2lab.c",
-    "códigos/aula teorica/exerc2.h",
-    "códigos/aula teorica/exerc2.cpp",
     "Anotacoes aula teorica/Sem título.md",
     "readme.md",
     "Captura de Tela 2026-03-09 às 16.18.08.png",

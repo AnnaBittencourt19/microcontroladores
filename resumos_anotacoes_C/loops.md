@@ -7,7 +7,7 @@
 | Não importa (quero executar pelo menos 1x) | do-while |
 ## For
 - O for condensa três partes em uma linha: inicialização(i=0;), condição ``(i<=n;)``  e incremento(i++).
-- O for vai executar n vezes, enquanto o i for menor ou igual a n executa o bloco
+- O for vai executar n vezes, enquanto o i for menor ou igual a n executa o bloco(quando a condição for falsa sai do for)
 - Exemplo:
 	- Contar de 1 até 10
 ```C
@@ -20,6 +20,14 @@ for (int i =1; i<=10; i++){
 - Você não sabe quantas vezes se deve executar um bloco de código mas existe uma condição que faz entrar nesse bloco
 - Se a condição for falso nunca entra no while
 - Roda ENQUANTO a condição for verdadeira
+```C
+inicialização  
+while (condição) {  
+	ação  
+	atualização  
+}
+```
+- Toda estrutura de repetição precisa de uma inicialização, condição, ação e atualização
 - Exemplo:
 	- Contar até 10
 ```C
@@ -70,3 +78,24 @@ do {
 	    leia numero
 	    some numero
 	ATÉ numero == 0
+
+```C
+do{
+sum = sum + number;
+number = number +2;
+printf("Sum is: %d\n", sum);
+printf("Num is: %d\n", number);
+}while(number <= 50);
+```
+- Realize a soma de sum + number e number +2 até number ser 50
+## Break
+- Sai do loop
+```C
+for (int i = 1; i <= 20; i++) {
+	if (i == 16){
+		break;
+	}
+	printf("%d ", i);
+}
+```
+- O loop para quando i for igual a 16 (para de contar no 15)
