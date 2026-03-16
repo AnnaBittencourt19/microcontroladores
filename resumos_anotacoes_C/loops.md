@@ -109,3 +109,23 @@ for (int i = 1; i <= 20; i++) {
 }
 ```
 - vai pular os numeros que não são pares
+## Loops infinitos
+- continua indefinidamente porque sua condição de término nunca é atendida
+- Usando while:
+```C
+while (1) {
+    // code to be executed
+}
+```
+- Usando for (usado no lab):
+```C
+for (;;) {
+    // code to be executed
+}
+```
+- Usando do while:
+```C
+do {
+    // code to be executed
+} while (1);
+```
