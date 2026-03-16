@@ -42,3 +42,7 @@ PORTB |= (1<<PB6);
 ```C
 PORTB &=~ (1<<PB6);
 ```
+## Macro (Atalhos com funções)
+```C
+#define set_bit(Y, bit_x)
+```
