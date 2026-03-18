@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/GPIOs.md",
+                "file": "códigos/pratica/GPIO com máscara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPIOs"
+              "title": "GPIO com máscara"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
-    "Anotacoes aula teorica/Bit a bit.md",
     "Anotacoes aula teorica/GPIOs.md",
+    "códigos/pratica/GPIO com máscara.md",
+    "Anotacoes aula teorica/Bit a bit.md",
     "Anotacoes aula teorica/Aula 1.md",
     "resumos_anotacoes_C/Estudos C Base.md",
     "resumos_anotacoes_C/Erros comuns em C.md",

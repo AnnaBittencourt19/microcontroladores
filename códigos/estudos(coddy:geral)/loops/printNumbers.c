@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 // Declare your function here
-void printNumbers(){
+void printNumbers(){ //void não usa return (não retorna um valor), usa printf imprime dados
     for (int i = 1; i <= 5; i++){
         if(i == 5){
             printf("%d", i);
