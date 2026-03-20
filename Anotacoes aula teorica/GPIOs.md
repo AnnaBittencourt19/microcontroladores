@@ -10,9 +10,9 @@
 	- DDRB |= (1 << PB2) (ativar o pino B2 para saída). OU (|) força um bit pra 1 (tem que ter a lógica OU para não sobrescrever nada)
 	- Pra configurar para entrada: DDRB & =  ˜(1<<PB2)
 	- Como saída OU 
-	- Como entrada &
+	- Como entrada & = ˜
 - Quando for entrada leremos o estado com (PINxn)
-	- if (PINB & 1<<PB3)) (ler pra saber se está em 0 ou 1). Se retornar 1 é pq está ativado o pino 3 do portal B 
+	- if (PINB & 1<<PB3) (ler pra saber se está em 0 ou 1). Se retornar 1 é pq está ativado o pino 3 do portal B 
 - Quando for saída mudaremos o estado com PORTxn)
 	- PORT é pra ativar 
 	- Na saída: (o que for 0 é 0v e o 1 é 5v) **PROVAAAAAA**
@@ -45,4 +45,9 @@ PORTB &=~ (1<<PB6);
 ## Macro (Atalhos com funções)
 ```C
 #define set_bit(Y, bit_x)
+# Y = Porta
+# bit_x = bit
 ```
+tst_bit(PIND,4) (le o quarto pino da porta D)
+CLEAR_BIT(PORTB, PB6); (desativa sexto pino da porta B)
+cpl_bit(PORTC,3) (inverte o valor)

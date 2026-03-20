@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "códigos/pratica/GPIO com máscara.md",
+                "file": "Anotacoes aula teorica/GPIOs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPIO com máscara"
+              "title": "GPIOs"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
-    "Anotacoes aula teorica/GPIOs.md",
-    "códigos/pratica/GPIO com máscara.md",
+    "ankis/MicrocontroladoresAnkiAula1ateGPIO.apkg",
+    "ankis/Microcontroladores.apkg",
     "Anotacoes aula teorica/Bit a bit.md",
+    "Anotacoes aula teorica/GPIOs.md",
+    "Anotacoes aula teorica/Sem título.md",
     "Anotacoes aula teorica/Aula 1.md",
+    "códigos/pratica/GPIO com máscara.md",
     "resumos_anotacoes_C/Estudos C Base.md",
     "resumos_anotacoes_C/Erros comuns em C.md",
     "resumos_anotacoes_C/Tipos primitivos variaveis C.md",
@@ -203,8 +206,6 @@
     "códigos/estudos(coddy:geral)/basico/recap.c",
     "MicrocontroladoresAnkiAula1.apkg",
     "Microcontroladores.apkg.zip",
-    "Microcontroladores.apkg",
-    "Anotacoes aula teorica/Sem título.md",
     "readme.md",
     "Captura de Tela 2026-03-09 às 16.18.08.png",
     "Captura de Tela 2026-03-09 às 16.17.55.png",
