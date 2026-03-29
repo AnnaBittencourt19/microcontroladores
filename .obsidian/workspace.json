@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/GPIOs.md",
+                "file": "Anotacoes aula teorica/Revisão GPIO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GPIOs"
+              "title": "Revisão GPIO"
             }
           }
         ]
@@ -185,11 +185,18 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "códigos/aula teorica/exerc2.2.c",
+    "códigos/aula teorica/exerc2.1.c",
+    "Anotacoes aula teorica/Revisão - lógicas bit a bit.md",
+    "Anotacoes aula teorica/Revisão GPIO.md",
+    "Anotacoes aula teorica/Revisão - maquina de estados.md",
+    "Anotacoes aula teorica/Bit a bit.md",
+    "Captura de Tela 2026-03-29 às 11.58.05.png",
+    "Captura de Tela 2026-03-29 às 11.55.37.png",
+    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
+    "Anotacoes aula teorica/GPIOs.md",
     "ankis/MicrocontroladoresAnkiAula1ateGPIO.apkg",
     "ankis/Microcontroladores.apkg",
-    "Anotacoes aula teorica/Bit a bit.md",
-    "Anotacoes aula teorica/GPIOs.md",
-    "Anotacoes aula teorica/Sem título.md",
     "Anotacoes aula teorica/Aula 1.md",
     "códigos/pratica/GPIO com máscara.md",
     "resumos_anotacoes_C/Estudos C Base.md",
@@ -199,13 +206,10 @@
     "códigos/estudos(coddy:geral)/basico/break.c",
     "códigos/estudos(coddy:geral)/basico/doWhileSoma.c",
     "códigos/estudos(coddy:geral)/basico/whilePar.c",
-    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
     "ankis/MicrocontroladoresAnkiAula1.apkg",
     "ankis",
     "códigos/estudos(coddy:geral)/basico/scanf.c",
     "códigos/estudos(coddy:geral)/basico/recap.c",
-    "MicrocontroladoresAnkiAula1.apkg",
-    "Microcontroladores.apkg.zip",
     "readme.md",
     "Captura de Tela 2026-03-09 às 16.18.08.png",
     "Captura de Tela 2026-03-09 às 16.17.55.png",
@@ -221,7 +225,6 @@
     "resumos_anotacoes_C/maquina de estado.md",
     "códigos/aula teorica/explicacao_exerc1.md",
     "códigos/aula teorica/maquina de estado.md",
-    "Tipos primitivos variaveis C.md",
-    "Captura de Tela 2026-02-23 às 15.54.46.png"
+    "Tipos primitivos variaveis C.md"
   ]
 }
