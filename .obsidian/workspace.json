@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/Revisão GPIO.md",
+                "file": "Anotacoes aula teorica/Interrupções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisão GPIO"
+              "title": "Interrupções"
             }
           }
         ]
@@ -185,10 +185,16 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "Captura de Tela 2026-03-30 às 16.27.13.png",
+    "Captura de Tela 2026-03-30 às 16.10.34.png",
+    "Captura de Tela 2026-03-30 às 16.00.17.png",
+    "Captura de Tela 2026-03-30 às 15.52.21.png",
+    "Captura de Tela 2026-03-30 às 15.49.59.png",
+    "Anotacoes aula teorica/Revisão GPIO.md",
+    "Anotacoes aula teorica/Interrupções.md",
     "códigos/aula teorica/exerc2.2.c",
     "códigos/aula teorica/exerc2.1.c",
     "Anotacoes aula teorica/Revisão - lógicas bit a bit.md",
-    "Anotacoes aula teorica/Revisão GPIO.md",
     "Anotacoes aula teorica/Revisão - maquina de estados.md",
     "Anotacoes aula teorica/Bit a bit.md",
     "Captura de Tela 2026-03-29 às 11.58.05.png",
@@ -209,16 +215,11 @@
     "ankis/MicrocontroladoresAnkiAula1.apkg",
     "ankis",
     "códigos/estudos(coddy:geral)/basico/scanf.c",
-    "códigos/estudos(coddy:geral)/basico/recap.c",
     "readme.md",
     "Captura de Tela 2026-03-09 às 16.18.08.png",
     "Captura de Tela 2026-03-09 às 16.17.55.png",
     "Captura de Tela 2026-03-09 às 16.06.43.png",
     "Captura de Tela 2026-03-09 às 16.02.03.png",
-    "Captura de Tela 2026-03-09 às 16.01.27.png",
-    "Captura de Tela 2026-03-09 às 15.54.34.png",
-    "Captura de Tela 2026-03-09 às 15.54.15.png",
-    "Captura de Tela 2026-03-09 às 15.53.55.png",
     "Sem título.md",
     "resumos_anotacoes/Sem título.md",
     "readme.md.md",
