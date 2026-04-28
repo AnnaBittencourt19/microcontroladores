@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/Temporizadores.md",
+                "file": "Anotacoes aula teorica/GPIOs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temporizadores"
+              "title": "GPIOs"
             }
           }
         ]
@@ -186,14 +186,20 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
+    "Anotacoes aula teorica/Interrupções.md",
+    "Anotacoes aula teorica/PCINT.md",
+    "Anotacoes aula teorica/Revisão GPIO.md",
+    "Anotacoes aula teorica/Sem título.md",
+    "Anotacoes aula teorica/Revisão - maquina de estados.md",
+    "Anotacoes aula teorica/Revisão - lógicas bit a bit.md",
+    "Anotacoes aula teorica/GPIOs.md",
+    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
+    "Anotacoes aula teorica/Temporizadores.md",
     "Captura de Tela 2026-04-27 às 21.16.12.png",
     "Entrega hoje _251021_230109_260427_163112.pdf",
     "Captura de Tela 2026-04-27 às 16.20.03.png",
     "Captura de Tela 2026-04-27 às 16.14.46.png",
     "Captura de Tela 2026-04-27 às 16.03.27.png",
-    "Anotacoes aula teorica/PCINT.md",
-    "Anotacoes aula teorica/Temporizadores.md",
-    "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
     "Anotacoes aula teorica/Bit a bit.md",
     "Anotacoes aula teorica/anotacoes em pdf/Revisão - maquina de estados.pdf",
     "Anotacoes aula teorica/anotacoes em pdf/Revisão GPIO.pdf",
@@ -204,11 +210,6 @@
     "Anotacoes aula teorica/anotacoes em pdf/Revisão - lógicas bit a bit.pdf",
     "Anotacoes aula teorica/anotacoes em pdf/GPIO SEM MÁSCARA.pdf",
     "Anotacoes aula teorica/anotacoes em pdf/Bit a bit.pdf",
-    "Anotacoes aula teorica/Interrupções.md",
-    "Anotacoes aula teorica/Revisão GPIO.md",
-    "Anotacoes aula teorica/Revisão - maquina de estados.md",
-    "Anotacoes aula teorica/Revisão - lógicas bit a bit.md",
-    "Anotacoes aula teorica/GPIOs.md",
     "Anotacoes aula teorica/Aula 1.md",
     "códigos/pratica/interrupções.md",
     "Captura de Tela 2026-03-30 às 16.27.13.png",
@@ -217,7 +218,6 @@
     "Captura de Tela 2026-03-30 às 15.52.21.png",
     "Captura de Tela 2026-03-30 às 15.49.59.png",
     "Captura de Tela 2026-03-29 às 11.58.05.png",
-    "Captura de Tela 2026-03-29 às 11.55.37.png",
     "códigos/pratica/GPIO com máscara.md",
     "resumos_anotacoes_C/Estudos C Base.md",
     "resumos_anotacoes_C/Erros comuns em C.md",

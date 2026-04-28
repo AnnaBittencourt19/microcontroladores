@@ -1,0 +1,6 @@
+- Delay é o timer mais simples
+- Agora não vai mais usar delay só timer
+- Desenhar gráfico cai na prova
+- Normal: Conta até o limite (TOP) e reinicia 
+- CTC: Reinicia quando atinge um valor definido (que não seja o máximo (TOP))
+- PWM: Gera onde modulada 
