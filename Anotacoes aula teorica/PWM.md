@@ -1,0 +1,17 @@
+- Onda quadrada cuja largura do pulso pode ser configurada
+- Muda Duty Cycle (ciclo de trabalho), 0V = 0% e 5V = 100%
+- Duty cycle: 20%, significa que está trabalhando 20% e atoa 80%
+- Duty cycle varia a tensão média de saída
+- Pinos PWM, saídas dos timers
+- Controlar RGB, quantos porcento azul, vermelho e verde
+- Pulse Width modulation cai na prova, frequencias ideais, importância do prescale
+- Modo PWM rápido: Funciona igual o contador normal, OCR0A ou OCR0B tem grafico no slide
+- Timer gera output no modo PWM
+- Limite de contagem: OCRnA ou OCRnB
+	- Inverte sinal cria a forma de onda
+	- Ver fluxograma 
+- Precisa ser saída 
+- TCCRnA: modo PWM, não invertido começa com 1 desce pra 0... e o invertido começa com 0 e sobe pra 1
+	- Fast PWM que será usado
+- TCCRnB: Prescale, no motor usa prescale pra não superaquecer
+- Exercicio 2 cai em várias provas se o Mosca estiver mal cai esse 
