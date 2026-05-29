@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotacoes aula teorica/Analog Digital Converter - ADC.md",
+                "file": "Anotacoes aula teorica/Temporizadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analog Digital Converter - ADC"
+              "title": "Temporizadores"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a165a9c145bbe362",
@@ -187,14 +186,18 @@
   },
   "active": "798f0cc9deaa77be",
   "lastOpenFiles": [
-    "Anotacoes aula teorica/anotacoes em pdf/exercicio.md",
+    "Anotacoes aula teorica/anotacoes em pdf/Temporizadores.pdf",
+    "Anotacoes aula teorica/PWM.md",
+    "Anotacoes aula teorica/anotacoes em pdf/PWM.pdf",
+    "Anotacoes aula teorica/Temporizadores.md",
     "Anotacoes aula teorica/Analog Digital Converter - ADC.md",
+    "Anotacoes aula teorica/anotacoes em pdf/Analog Digital Converter - ADC.pdf",
+    "Anotacoes aula teorica/anotacoes em pdf/exercicio.md",
     "Anotacoes aula teorica/anotacoes em pdf/exercicio.pdf",
     "Anotacoes aula teorica/anotacoes em pdf/Lista PWM.md",
     "Anotacoes aula teorica/anotacoes em pdf/Lista PWM.pdf",
     "Pasted image 20260518142210.png",
     "Anotacoes aula teorica/Lista Timer.md",
-    "Anotacoes aula teorica/Temporizadores.md",
     "Anotacoes aula teorica/Interrupções.md",
     "Captura de Tela 2026-05-11 às 15.47.00.png",
     "Captura de Tela 2026-05-11 às 15.46.41.png",
@@ -209,7 +212,6 @@
     "prints/Pasted image 20260504161900.png",
     "Anotacoes aula teorica/GPIOs.md",
     "Anotacoes aula teorica/GPIO SEM MÁSCARA.md",
-    "Anotacoes aula teorica/PWM.md",
     "Anotacoes aula teorica/Revisão - maquina de estados.md",
     "Anotacoes aula teorica/Revisão - lógicas bit a bit.md",
     "prints/Captura de Tela 2026-04-27 às 21.16.12.png",
@@ -221,8 +223,6 @@
     "Anotacoes aula teorica/anotacoes em pdf/Revisão GPIO.pdf",
     "Anotacoes aula teorica/anotacoes em pdf/PCINT.pdf",
     "Anotacoes aula teorica/anotacoes em pdf/Interrupções.pdf",
-    "Anotacoes aula teorica/anotacoes em pdf/GPIOs.pdf",
-    "Anotacoes aula teorica/anotacoes em pdf/Aula 1.pdf",
     "códigos/pratica/interrupções.md",
     "prints/Captura de Tela 2026-03-30 às 16.27.13.png",
     "códigos/pratica/GPIO com máscara.md",
@@ -231,7 +231,6 @@
     "resumos_anotacoes_C/Tipos primitivos variaveis C.md",
     "resumos_anotacoes_C/loops.md",
     "readme.md",
-    "resumos_anotacoes/Sem título.md",
-    "readme.md.md"
+    "resumos_anotacoes/Sem título.md"
   ]
 }

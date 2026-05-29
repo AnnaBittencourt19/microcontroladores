@@ -9,13 +9,44 @@
 2,5 V → valor digital próximo de 512
 5 V   → valor digital próximo de 1023
 ```
-- Passa para valor binario pra fazer processamento via código
+- Passa para valor binário pra fazer processamento via código
+- Resolução do ADC: 
+	- É a menor variação de tensão que o conversor consegue perceber
+	- Como o ADC tem 10 bits, ele consegue representar 1024 níveis digitais (de 0 até 1023)
+	- A pergunta que a resolução responde é: `Quanto de tensão representa cada unidade do ADC?`ou seja `Se o ADC aumentou de 500 para 501, quanto a tensão aumentou?` 
+	- Formula: 
+		- $Resolução = \frac {Vref} {(2^n - 1)}$
+		- Vref = tensão de referência do ADC, o sinal de entrada não pode passar de Vref
+		- n = número máximo de bits do ADC
+	- Exemplo:
+		- Dados: 
+			 Vref = 5 V
+			 n = 10 bits
+		- Resolução:
+			$$\frac{5}{(2^{10} - 1)}$$
+		$$\frac {5}{1023} = 0,00488 V$$
+			A resolução é 4,88 mV
+		- O que significa esse 4,88mV:
+			- ADC = 0    → aproximadamente 0 V
+			- ADC = 1    → aproximadamente 4,88 mV
+			- ADC = 2    → aproximadamente 9,76 mV
+			- ADC = 100  → aproximadamente 488 mV
+			- ADC = 512  → aproximadamente 2,5 V
+			- ADC = 1023 → aproximadamente 5 V
+- Como descobrir a tensão correspondente: Vin = ADC × resolução (Vin = Tensão de input)
 - Na conversão ADC existe uma pequena perda de precisão, porque o ADC arredonda ou aproxima a tensão real para o nível digital mais próximo
+- Pinos ADC:
+	ADC0 → PC0
+	ADC1 → PC1
+	ADC2 → PC2
+	ADC3 → PC3
+	ADC4 → PC4
+	ADC5 → PC5
 - Etapas da conversão:
 	- Input: Entrada analogica (X(t))
 	1. Filtro passa baixa
 	2. Amostragem e armazenamento 
-	3. Quantizador
+	3. Quantizador (arredondamento, transforma uma grandeza contínua em degraus)
 	4. Codificador
 	- Output: Código digital (X(n))
 - Quantização: Valor analogico
@@ -38,3 +69,14 @@
 	- ADCSRA: Habilitar ADC e interrupção
 - ADC usa prescaler, prescaler reduz a frequência que reduz o tempo de amostragem (muito rápido perde a precisão)
 - o ADC possui 10 bits de resolução (leitura de 0 até 1023)
+- Registrador ADCSRA
+	- Controla o funcionamento do ADC
+	- Estrutura dele:
+	```
+	Bit:    7     6     5     4     3     2     1     0
+          ADEN  ADSC  ADATE  ADIF  ADIE  ADPS2  ADPS1 ADPS0
+    ```
+	- O bit ADEN (bit 7) liga ou desliga o ADC. Para ligar o conversor: `ADCSRA |= (1 << ADEN);` (Sem esse bit ativado o conversor não funciona)
+	- Bit ADSC (bit 6): Inicia a conversão. Quando esse bit está em 1, o ADC começa a converter a tensão analógica em número digital enquanto a conversão está acontecendo, esse bit permanece em 1 e quando a conversão termina o próprio hardware zera esse bit
+	- 
+	
